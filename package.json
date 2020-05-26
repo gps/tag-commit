@@ -1,0 +1,21 @@
+{
+  "name": "tag-commit",
+  "version": "1.0.0",
+  "description": "A GitHub Action that tags current git commit",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gps/tag-commit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/gps/tag-commit/issues"
+  },
+  "homepage": "https://github.com/gps/tag-commit#readme",
+  "dependencies": {
+    "@actions/core": "^1.2.4",
+    "@actions/github": "^2.2.0"
+  }
+}
